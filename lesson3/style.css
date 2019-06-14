@@ -1,0 +1,11 @@
+.task{
+	background: #99CCFF;
+	color: black;
+	font-style: italic;
+}
+
+.task h2{
+	font-size:  16px;
+	color: red;
+	font-style: normal;
+}
